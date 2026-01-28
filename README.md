@@ -41,8 +41,6 @@ This repository contains the **hardware/firmware** component of the Mesura syste
 ## References and Resources
 
 ### MCP3008
-- 8-channel, 10-bit Analog-to-Digital Converter
-- SPI Interface
 - [MCP3008 Datasheet](https://www.microchip.com/wwwproducts/en/MCP3008)
 
 ## Author
@@ -50,7 +48,3 @@ This repository contains the **hardware/firmware** component of the Mesura syste
 **Rodion Romanovich Tabares Correa**
 
 IoT Class Project - 2022
-
----
-
-*Note: This is the hardware/firmware component. For the complete system including web interface and music recommendations, see the mesura-web repository.*
